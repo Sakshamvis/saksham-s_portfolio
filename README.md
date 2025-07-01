@@ -21,4 +21,7 @@ Salifort’s senior leadership team is concerned about how many employees are le
 ## Data Understanding
 
 The features included information on employee satisfaction, evaluation score, number of projects contributed to, average number of hours worked per month, tenure at the company, whether if they had a work accident, if they were promoted within the last 5 years, department worked for, and salary. The pie chart below shows the proportion of employees at Salifort Motors, with 0 meaning the employee has stayed and 1 meaning the employee has left.
+
+
+
 ![image](https://github.com/user-attachments/assets/214296a8-aaed-43a1-85ec-cb44434f0630)
