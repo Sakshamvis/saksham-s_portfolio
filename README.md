@@ -27,10 +27,11 @@ The features included information on employee satisfaction, evaluation score, nu
 ![image](https://github.com/user-attachments/assets/214296a8-aaed-43a1-85ec-cb44434f0630)
 
 
-##Modeling and Evaluation
+## Modeling and Evaluation
+
 An XGBoost model with tuned hyperparameters and feature engineering was used to determine feature importance in who would leave or stay at Salifort Motors. The below plot shows that the number of contributing projects, tenure with company, last evaluation score, working an average of over 175 hours per month, experiencing an accident, and salary are important factors.
 
 ![image](https://github.com/user-attachments/assets/c1e20ab1-dbf6-4c8b-b64a-d5eb1b428659)
 
-##Conclusion
+## Conclusion
 The XGBoost model that was developed can benefit Salifort Motors in knowing if an employee is leaving or not. Dedicating resources into the feature importance will limit employee turnover while promoting good work culture.
