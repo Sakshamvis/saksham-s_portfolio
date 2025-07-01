@@ -14,7 +14,7 @@ The goal of this project was to create a predictive model for employee turnover 
 
 Using an XGBoost (CV) model, we see that the main predictive features in determining if an employee will leave are: satisfaction_level, numbre_of_projects, tenure, last_evaluation , average_monthly_hours, work_accident, salary , department_sales.
 
-##Business Understanding
+## Business Understanding
 
 Salifort’s senior leadership team is concerned about how many employees are leaving the company. The high turnover rate is costly in the financial sense because Salifort makes a big investment in recruiting, training, and upskilling its employees. If Salifort could predict whether an employee will leave the company, and discover the reasons behind their departure, they could better understand the problem and develop a solution.
 
